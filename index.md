@@ -6,6 +6,11 @@ classes: wide
 
 I am currently a XXX at [CRIStAL](https://www.cristal.univ-lille.fr/) in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille.
 
+Here's what I do...
+## Research interests
+
+Few sentences and/or keywords.
+
 <div align="middle" style="margin-top: 50px">
   <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/logo_cnrs.png" align="bottom" style="width:100px;height:100px;"></a>
 
