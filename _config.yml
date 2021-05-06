@@ -99,7 +99,7 @@ analytics:
 author:
   name: "FirstName LastName"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "My short bio"
+  bio: "My short bio<br>Second line<br>"
   location: "Lille, France"
   email: "my.name@email.com"
   github: "CRIStAL-Sigma"
