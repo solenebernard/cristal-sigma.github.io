@@ -115,7 +115,7 @@ author:
     acmdl:
     ads:
     africarxiv:
-    arxiv: # https://arxiv.org/a/<orcid-id | arxiv-id>
+    arxiv: "https://arxiv.org/a/<orcid-id | arxiv-id>"
     biorxiv:
     ceur:
     ciencia-vitae:
@@ -132,8 +132,8 @@ author:
     dryad:
     elsevier:
     figshare:
-    google-scholar: #"https://scholar.google.com/citations?user=<user-id>=en"
-    hal: #https://orcid.org/<orcid-id>
+    google-scholar: "https://scholar.google.com/citations?user=<user-id>=en"
+    hal:
     hypothesis:
     ideas-repec:
     ieee:
@@ -153,7 +153,7 @@ author:
     open-materials:
     obp:
     openedition:
-    orcid: #https://orcid.org/<orcid-id>
+    orcid: "https://orcid.org/<orcid-id>"
     osf:
     overleaf:
     philpapers:

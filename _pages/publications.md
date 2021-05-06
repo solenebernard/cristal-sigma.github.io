@@ -9,6 +9,7 @@ toc_label: "Publications"
 toc_sticky: true
 ---
 
+<!-- Go to _config.yml file and fill the corresponding fields author.academic_profiles.xxxx-->
 {% if site.author.academic_profiles.google-scholar %}
   <a href="{{ site.author.academic_profiles.google-scholar }}">
     <i class="ai ai-google-scholar" aria-hidden="true"></i>Scholar
