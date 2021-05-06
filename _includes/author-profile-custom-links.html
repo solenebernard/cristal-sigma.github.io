@@ -190,13 +190,13 @@
   </li>
 {% endif %} -->
 
-<!-- {% if author.academic_profiles.google-scholar %}
-  <li>
-    <a href="{{ author.academic_profiles.google-scholar }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-      <i class="ai ai-google-scholar" aria-hidden="true"></i><span class="label">Scholar</span>
-    </a>
-  </li>
-{% endif %} -->
+{% if author.academic_profiles.google-scholar %}
+<li>
+  <a href="{{ author.academic_profiles.google-scholar }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="ai ai-google-scholar" aria-hidden="true"></i><span class="label">Scholar</span>
+  </a>
+</li>
+{% endif %}
 
 <!-- {% if author.academic_profiles.hal %}
   <li>
